@@ -1,0 +1,93 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+body {
+  background-color: #e0e1dd;
+  font-family: 'Open Sans', sans-serif;
+  color: #0d1b2a;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+p, h1, h2, h3 {
+  margin: 10;
+}
+
+a {
+  color: #415a77;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6b96a3;
+}
+
+h1 {
+  color: #5B838F;
+}
+
+h2 {
+  color: #565551;
+}
+
+table {
+  font-family: 'Open Sans', sans-serif;
+  color: #0d1b2a;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+table h3 {
+  color: #565551;
+}
+
+.container {
+  width: 550px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 1px solid #cecece;
+  border-radius: 5px;
+  box-shadow: 5px 5px 3px  #BCC0C5;
+  padding: 25px;
+  margin: 13px;
+  text-align: center;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.btn {
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #5B838F;
+  padding: 5px;
+}
+
+.btn:hover {
+  border-radius: 5px;
+  background-color: #5B838F;
+  border: 1px solid #5B838F;
+  color: #ffffff;
+  padding: 5px;
+  transition-duration: 00ms;
+}
+
+.fa {
+  font-size: 21px;
+}
+
+#img-circle {
+  border-radius: 50%;
+}
+
+.movie-img {
+  width: 80px;
+}
